@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joydeep De* | Vishwanath Varma</title>
+    <link>/authors/joydeep-de/</link>
+      <atom:link href="/authors/joydeep-de/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joydeep De*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Significance of activity peaks in fruit flies, Drosophila melanogaster, under seminatural conditions</title>
+      <link>/publication/de-significance-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/de-significance-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adult emergence rhythm of fruit flies Drosophila melanogaster under seminatural conditions</title>
+      <link>/publication/de-adult-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/de-adult-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of adult emergence and activity/rest rhythms in fruit flies Drosophila melanogaster under semi-natural condition</title>
+      <link>/publication/kannan-stability-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/kannan-stability-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

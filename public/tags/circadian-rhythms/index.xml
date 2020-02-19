@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Circadian rhythms | Vishwanath Varma</title>
+    <link>/tags/circadian-rhythms/</link>
+      <atom:link href="/tags/circadian-rhythms/index.xml" rel="self" type="application/rss+xml" />
+    <description>Circadian rhythms</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Circadian rhythms</title>
+      <link>/tags/circadian-rhythms/</link>
+    </image>
+    
+    <item>
+      <title>Accuracy of circadian rhythms</title>
+      <link>/project/rhythm-accuracy/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/rhythm-accuracy/</guid>
+      <description>&lt;p&gt;We investigated the factors that influence the ability of the internal clock in flies to synchronize with the external environment with a consistent phase of entrainment. My main project involved artificial selection on fly populations for daily emergence as adults within a window of one hour during the daytime. Another project examined the interaction between internal clock period and length of the external cycle in determining accuracy of mutant flies with different periodicities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily rhythms under semi-natural conditions</title>
+      <link>/project/natural-rhythms/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/natural-rhythms/</guid>
+      <description>&lt;p&gt;We performed some of the first experiments on Drosophila activity and adult emergence rhythms in natural-like environments and found substantial differences in patterns of such behaviour compared to laboratory conditions. We examined the responsiveness of adult emergence to environmental variables such as temperature and humidity and showed that flies tend to emerge close to the time when minimum temperature and maximum humidity is seen. Moreover, we manipulated light patterns in natural environments using filters and shades to show that different peaks of activity are differently modulated by light and temperature and may correspond to functionally different behaviours such as foraging or mating. We also showed that light receptor and internal clock mutants show largely similar behaviour to controls in semi-natural conditions as opposed to the large differences seen in laboratory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous side-projects</title>
+      <link>/project/miscellaneous/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/miscellaneous/</guid>
+      <description>&lt;p&gt;Jetlag is the process of re-adjusting the internal clock to a change in the timing of the external cycle and is mediated by delaying or advancing the internal clock (also called phase-shifting in circadian parlance). We showed that the perturbation of a simple limit cycle model of an internal clock using a light pulse can be used to predict how rates of jetlag (or magnitude of phase-shifts) might differ at different temperatures in fruit flies.&lt;/p&gt;
+&lt;p&gt;In a separate study, we report the interesting finding that virgin female flies also exhibit a rhythm in egg-laying and , in fact, show more robust rhythmicity compared to mated females, which can be partially explained by the presence of a male.&lt;/p&gt;
+&lt;p&gt;Another series of studies, that I was a part of, demonstrated that circadian clocks persist for over 300 generations in fly populations maintained under constant light and constant dark environments (where presumably there is no advantage of synchronizing internal clocks to the external environment). We suggest that either there are intrinsic benefits of coordinating the timing of physiological events or clock genes are pleiotropic and involved in multiple functions in addition to circadian time-keeping.&lt;/p&gt;
+&lt;p&gt;I also co-designed a simple experiment to show that male flies have residual sexual drive (evening peak of locomotor activity) after mating with a single female which dissipates upon mating with multiple females. In contrast, female flies only show a generic effect of mating (reduction of evening activity peak or sex drive) irrespective of the number of partners.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Vishwanath Varma</title>
+    <link>/models/</link>
+      <atom:link href="/models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Posts</title>
+      <link>/models/</link>
+    </image>
+    
+    <item>
+      <title>Predator-prey models and Temporal Niches</title>
+      <link>/models/predator-prey/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/models/predator-prey/</guid>
+      <description>&lt;p&gt;A simple wolf-sheep-grass model available in Netlogo can be modified to illustrate various principles in behavioural ecology. First, sheep and wolves moving randomly and wolves eating the sheep when they come into contact. A mean wolf population of around 50 may be sustained.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/models/predator-prey/featured2.gif&#34; &gt;
+
+
+  &lt;img src=&#34;/models/predator-prey/featured2.gif&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;However, if sheep start avoiding the wolves (blue sheep), then the wolf population crashes (of course, wolves can chase but it is assumed that they do not in this model). If you look closely, you can see the sheep grouping together to avoid wolves.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/models/predator-prey/featured1.gif&#34; &gt;
+
+
+  &lt;img src=&#34;/models/predator-prey/featured1.gif&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;What happens when predator-avoiding sheep (blue) and non-avoiding sheep (white) are both present in the population (behavioural variation)? Counter-intuitively, predator-avoiding sheep are outcompeted by the regular sheep. This is because blue sheep tend to find themselves in areas with less grass since they are grouped together in small spaces where grass gets depleted. I use this model to suggest predator-avoidance leading to sociality, frequency-dependence of behavioural variants on fitness and opportunity costs of predator-avoidance.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/models/predator-prey/featured3.gif&#34; &gt;
+
+
+  &lt;img src=&#34;/models/predator-prey/featured3.gif&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;An alternative to suffering the adverse effects of inter-specific competition or predation is carving out one&amp;rsquo;s own niche. Here, I show how plasticity in timing of rest (while retreating to a corner or refuge area) can lead to temporal niche separation over a few cycles. The white sheep and black wolves are diurnal. The red sheep respond to seeing wolves by retreating earlier than usual to their refuge and accordingly beginning their foraging earlier. Repeated exposure to wolves eventually results in the red sheep becoming predominantly nocturnal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social interactions and collective movements</title>
+      <link>/models/modeling-interactions/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/models/modeling-interactions/</guid>
+      <description>&lt;p&gt;Collective animal movements such as schooling of fish or flocking in birds can be modelled using simple rules of interactions i.e. repulsion, attraction and alignment. However, other aspects of animal behaviour such as aggression and leadership may also be modelled as distinctive patterns of relative movements among individuals.
+For example, aggression is characterized by sudden accelerations towards the other individual which responds by retreating or fleeing.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/models/writing-technical-content/featured3.gif&#34; &gt;
+
+
+  &lt;img src=&#34;/models/writing-technical-content/featured3.gif&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Leadership may be seen when an individual is seen to be entering a new area and is shortly followed by another individual. Collective navigation may be considered a tug of war between individual instincts of exploration and the propensity to remain in close proximity with others.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tracking fish in complex backgrounds using machine learning</title>
+      <link>/models/fish-tracking/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/models/fish-tracking/</guid>
+      <description>&lt;p&gt;After labelling more than thousand images of fish in the videos with complex backgrounds, uneven lighting and turbid water, I trained a faster-RCNN model using the object detection API and then tested the frozen model on video recordings using OpenCV. The results? Pretty solid detection of both fish in most frames of the recording. However, the aerator in the tank and some background objects are also detected on occassion as fish.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/models/fish-tracking/featured1.gif&#34; &gt;
+
+
+  &lt;img src=&#34;/models/fish-tracking/featured1.gif&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;To identify and track individual fish across frames in the video, I implemented the SORT algorithm (Simple and Online Real-Time Tracking) and modified it to limit the number of possible detected objects to two. The individual trajectories can survive mild occlusions (like the one shown here) using the current algorithm.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

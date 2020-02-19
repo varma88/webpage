@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vasu Sheeba | Vishwanath Varma</title>
+    <link>/authors/vasu-sheeba/</link>
+      <atom:link href="/authors/vasu-sheeba/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vasu Sheeba</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Accuracy of fruit-fly eclosion rhythms evolves by strengthening circadian gating rather than developmental fine-tuning</title>
+      <link>/publication/varma-accuracy-2019/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/varma-accuracy-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian clock properties and their relationships as a function of free-running period in Drosophila melanogaster</title>
+      <link>/publication/srivastava-circadian-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/srivastava-circadian-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental cycles regulate development time via circadian clock mediated gating of adult emergence</title>
+      <link>/publication/srivastava-environmental-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/srivastava-environmental-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Significance of activity peaks in fruit flies, Drosophila melanogaster, under seminatural conditions</title>
+      <link>/publication/de-significance-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/de-significance-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

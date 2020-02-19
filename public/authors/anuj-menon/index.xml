@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anuj Menon | Vishwanath Varma</title>
+    <link>/authors/anuj-menon/</link>
+      <atom:link href="/authors/anuj-menon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anuj Menon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Rhythmic egg-laying behaviour in virgin females of fruit flies Drosophila melanogaster</title>
+      <link>/publication/menon-rhythmic-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/menon-rhythmic-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

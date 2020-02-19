@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | Vishwanath Varma</title>
+    <link>/tags/academic/</link>
+      <atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+    </image>
+    
+    <item>
+      <title>Fish detection in complex background using machine learning</title>
+      <link>/post/fish-detection/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/fish-detection/</guid>
+      <description>&lt;p&gt;After labelling more than thousand images of fish in the videos with complex backgrounds, uneven lighting and turbid water, I trained a faster-RCNN model using the object detection API and then tested the frozen model on video recordings using OpenCV. The results? Pretty solid detection of both fish in most frames of the recording.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tracking fish in complex backgrounds using machine learning</title>
+      <link>/analysis-tools/fish-tracking/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/analysis-tools/fish-tracking/</guid>
+      <description>&lt;p&gt;After labelling more than thousand images of fish in the videos with complex backgrounds, uneven lighting and bubbles, I trained a faster-RCNN model using the object detection API and then tested the frozen model on video recordings using OpenCV. The results? Pretty solid detection of both fish in most frames of the recording. However, the aerator in the tank and some background objects are also detected on occasion as fish.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/analysis-tools/fish-tracking/featured1.gif&#34; &gt;
+
+
+  &lt;img src=&#34;/analysis-tools/fish-tracking/featured1.gif&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;To identify and track individual fish across frames in the video, I implemented the SORT algorithm (Simple and Online Real-Time Tracking) and modified it to limit the number of possible detected objects to two. The individual trajectories can survive mild occlusions (like the one shown here) using the current algorithm.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/analysis-tools/fish-tracking/featured2.gif&#34; &gt;
+
+
+  &lt;img src=&#34;/analysis-tools/fish-tracking/featured2.gif&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;From the trajectories, we can visualize space use or exploration in the tank of each fish. We can also measure sociability as the distance between the two fish, the average speed and the similarity of direction of movement of the two fish as an indicator of coordination. Many of these features are available in the movekit repository developed by Eren Cakmak, Arjun Majumdar, and Jolle Jolles at the University of Konstanz.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

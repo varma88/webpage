@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nisha N Kannan | Vishwanath Varma</title>
+    <link>/authors/nisha-n-kannan/</link>
+      <atom:link href="/authors/nisha-n-kannan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nisha N Kannan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Selection for narrow gate of emergence results in correlated sex-specific changes in life history of Drosophila melanogaster</title>
+      <link>/publication/varma-selection-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/varma-selection-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strong (type 0) phase resetting of activity-rest rhythm in fruit flies, Drosophila melanogaster, at low temperature</title>
+      <link>/publication/varma-strong-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/varma-strong-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of adult emergence and activity/rest rhythms in fruit flies Drosophila melanogaster under semi-natural condition</title>
+      <link>/publication/kannan-stability-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/kannan-stability-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

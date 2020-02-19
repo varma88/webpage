@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KL Nikhil | Vishwanath Varma</title>
+    <link>/authors/kl-nikhil/</link>
+      <atom:link href="/authors/kl-nikhil/index.xml" rel="self" type="application/rss+xml" />
+    <description>KL Nikhil</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Evolution of circadian rhythms in Drosophila melanogaster populations reared in constant light and dark regimes for over 330 generations</title>
+      <link>/publication/shindey-evolution-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/shindey-evolution-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of robust circadian clocks in Drosophila melanogaster populations reared in constant dark for over 330 generations</title>
+      <link>/publication/shindey-evolution-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/shindey-evolution-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
