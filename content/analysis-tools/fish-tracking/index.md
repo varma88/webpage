@@ -17,7 +17,7 @@ tags:
 title: 'Tracking fish in complex backgrounds using machine learning'
 ---
 
-After labelling more than thousand images of fish in the videos with complex backgrounds, uneven lighting and bubbles, I trained a faster-RCNN model using the object detection API and then tested the frozen model on video recordings using OpenCV. The results? Pretty solid detection of both fish in most frames of the recording. However, the aerator in the tank and some background objects are also detected on occasion as fish.
+After labelling more than thousand images of fish in the videos with complex backgrounds, uneven lighting and bubbles, I trained a faster-RCNN model using the object detection API and then tested the frozen model on video recordings using OpenCV. This yielded pretty solid detection of both fish in most frames of the recording. However, the aerator in the tank and some background objects are also detected on occasion as fish.
 
 {{<figure src="/analysis-tools/fish-tracking/featured1.gif" title="">}}
 
